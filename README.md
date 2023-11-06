@@ -1,4 +1,5 @@
-#Face Recognition Project
+##Face Recognition Project
+
 This project demonstrates a simple face recognition system using Python, OpenCV, and Dlib. The code captures frames from the primary camera and detects faces in real-time, drawing rectangles around them and numbering each detected face.
 
 #Prerequisites
